@@ -41,7 +41,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dp"
-        android:hint="Email"
+        android:hint="Password"
         android:drawableStart="@drawable/passpor"
         android:drawablePadding="10dp"
         android:inputType="textEmailAddress"
